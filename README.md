@@ -1,6 +1,7 @@
 # PythonRestAPITesting
 Example code for testing a REST APi using Python Requests and Pytest.
 
+
 Run from the command line with: pytest tests\01_basic_tests.py --html=pytest_report.html
 or run the runMe.bat file
 
