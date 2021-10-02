@@ -1,7 +1,10 @@
 # PythonRestAPITesting
 Example code for testing a REST APi using Python Requests and Pytest
 
+Setup:
+pip3 install -U requests Flask pytest pytest-html
 
+Goal:
 3 tests for rest service available here: http://ec2-3-123-145-12.eu-central-1.compute.amazonaws.com/api
 
 Roles:
